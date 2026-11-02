@@ -1,0 +1,8 @@
+wrote extracted data to "/home/shoxrux/Downloads/hiCTF-writeups/08-Echoes-of-a-Forgotten-Canvas/artifacts/finall.jpg".
+IHDR says 4000x4000, stored CRC 4675412a, crc of header as-is ee7fe302
+CRC matches height 4500
+part 1 is drawn in the alpha channel of the hidden strip -> flag_part1_alpha.png
+appended zip members: ['carrier.jpg']
+finall.jpg SOF0 says 495x647
+real height ~768; hidden rows -> flag_part2_hidden_rows.png
+flag: hiCTF{mu1t!14y3r3d_ + st3g0o_ju5t_l0v333}
