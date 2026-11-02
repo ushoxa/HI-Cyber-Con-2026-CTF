@@ -18,6 +18,16 @@ CTF writeups, challenge solutions, solver scripts, and forensic artifacts from *
 
 </div>
 
+## Team members
+
+| Name | Socials |
+| :--- | :--- |
+| **Shoxrux Umirzoqov** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-ushoxa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ushoxa/) [![Telegram](https://img.shields.io/badge/Telegram-ushoxa-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ushoxa) [![Instagram](https://img.shields.io/badge/Instagram-vipshoxa-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vipshoxa/) |
+| Shodmonov Xushnudbek | — |
+| Isroilov Sardor | — |
+| Ortiqov Isfandiyor | — |
+| Ravshanov Xumoyun | — |
+
 ---
 
 ## The result
