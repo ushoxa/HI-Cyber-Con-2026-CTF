@@ -11,7 +11,7 @@ CTF writeups, challenge solutions, solver scripts, and forensic artifacts from *
 ![HI Cyber Con 2026 — Break the Signal](assets/readme/event-banner.png)
 
 ![Placement: 2nd](https://img.shields.io/badge/Placement-2nd-ff6b00?style=for-the-badge)
-![Writeups: 36 of 69](https://img.shields.io/badge/Writeups-36%20%2F%2069-242424?style=for-the-badge)
+![Writeups: 37 of 69](https://img.shields.io/badge/Writeups-37%20%2F%2069-242424?style=for-the-badge)
 ![Status: Work in progress](https://img.shields.io/badge/Status-Work%20in%20progress-5865F2?style=for-the-badge)
 
 [**Browse the checklist**](CHECKLIST.md) · [**Contributors**](CONTRIBUTORS.md) · [**Event website**](https://hicybercon.hiddeninvestigations.net/) · [**Discord**](https://discord.gg/rD2gHUWJhf)
@@ -48,7 +48,7 @@ This repository brings together our challenge writeups, solver scripts, and supp
 
 ## Explore the writeups
 
-**36 / 69 writeups uploaded.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
+**37 / 69 writeups uploaded.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
 
 | Category | Writeups uploaded |
 | :--- | :---: |
@@ -59,7 +59,7 @@ This repository brings together our challenge writeups, solver scripts, and supp
 | ⛓️ [Blockchain](./Blockchain/) | **1 / 5** |
 | 🌐 [Web](./Web/) | **5 / 7** |
 | 🗂️ [Miscellaneous](./Miscellaneous/) | **1 / 6** |
-| 🛰️ [OSINT](./OSINT/) | **1 / 4** |
+| 🛰️ [OSINT](./OSINT/) | **2 / 4** |
 | 🤖 [AI / LLM](./ai-llm/) | **1 / 1** |
 | 📱 [Android](./android/) | **1 / 2** |
 | ⚙️ [Hardware](./hardware/) | **4 / 5** |
@@ -76,7 +76,7 @@ This repository brings together our challenge writeups, solver scripts, and supp
 - [No Bit Sings Alone](./steg/No%20Bit%20Sings%20Alone/No%20Bit%20Sings%20Alone.md) — audio steganography and cryptography.
 
 <details>
-<summary><strong>All 36 available challenge writeups</strong></summary>
+<summary><strong>All 37 available challenge writeups</strong></summary>
 
 **Binary Exploitation**
 
@@ -122,6 +122,8 @@ This repository brings together our challenge writeups, solver scripts, and supp
 - [Labyrinth](./Miscellaneous/Labyrinth/Labyrinth.md)
 
 **OSINT**
+
+- [Low Tide Ledger (PDF)](./OSINT/Low%20Tide%20Ledger/Low%20Tide%20Ledger.pdf)
 
 - [chillin!!! (PDF)](./OSINT/chillin%21%21%21/chillin%21%21%21.pdf)
 

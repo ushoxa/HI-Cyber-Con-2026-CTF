@@ -1,6 +1,6 @@
 # Challenge Writeup Checklist
 
-**36 of 69 writeups uploaded.** One additional challenge has supporting files only.
+**37 of 69 writeups uploaded.** One additional challenge has supporting files only.
 
 Checked boxes mean a writeup (Markdown or PDF) has been uploaded; they do not indicate contest acceptance or independent verification.
 
@@ -79,10 +79,10 @@ Edit this checklist as more writeups are uploaded.
 - [ ] [The Collector's Trail](./Miscellaneous/The%20Collector%27s%20Trail/)
 - [x] [Labyrinth](./Miscellaneous/Labyrinth/Labyrinth.md)
 
-## OSINT (1/4)
+## OSINT (2/4)
 
 - [ ] [Shadow Identity](./OSINT/Shadow%20Identity/)
-- [ ] [Low Tide Ledger](./OSINT/Low%20Tide%20Ledger/)
+- [x] [Low Tide Ledger](./OSINT/Low%20Tide%20Ledger/Low%20Tide%20Ledger.pdf)
 - [x] [chillin!!!](./OSINT/chillin%21%21%21/chillin%21%21%21.pdf)
 - [ ] [The Reason for the Photograph](./OSINT/The%20Reason%20for%20the%20Photograph/)
 
