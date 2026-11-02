@@ -1,0 +1,16 @@
+original header: 00 00 00 00 0d 0a 1a 0a
+IHDR len=    13 crc_ok=True
+     400x300 bitdepth=16 colortype=6
+cHRM len=    32 crc_ok=True
+bKGD len=     6 crc_ok=True
+tIME len=     7 crc_ok=True
+tEXt len=    37 crc_ok=True
+      date:create = 2026-10-15T11:55:55+00:00
+tEXt len=    37 crc_ok=True
+      date:modify = 2026-10-15T11:55:55+00:00
+tEXt len=    40 crc_ok=True
+      date:timestamp = 2026-10-15T11:55:55+00:00
+IDAT len= 15628 crc_ok=True
+IEND len=     0 crc_ok=True
+decompressed IDAT: 960300 expected: 960300
+written /home/shoxrux/Downloads/hiCTF-writeups/02-Broken-Signals/artifacts/fixed.png
