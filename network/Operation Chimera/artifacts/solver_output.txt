@@ -1,0 +1,2 @@
+[+] 136 chunks, 34688 bytes -> exfil.bin
+[+] flag: hiCTF{0daaY_c1tTy_0f_pcAP_1s_nN1C3_looK!!!}
