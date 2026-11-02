@@ -1,0 +1,9 @@
+=== INTERCEPTED TRANSMISSION ===
+Multiple encryption layers detected.
+Peel them back, one by one.
+
+Hint: The outermost layer is reversed.
+Layers applied (outermost to innermost): Reverse → Base64 → Hex → ???
+
+Encoded message:
+=Q2NxcTM2EzMhZTM2gjNmVTN2MzMjZDNzkzNmVzY2YmNmVTN2MzMjZDNzkzNidzM1cDNwUjN3UzN
