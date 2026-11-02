@@ -1,0 +1,9 @@
+The two audio channels have different roles, but neither should be investigated in isolation. One contains information you can observe directly, while certain signals in that same channel act as a guide to uncovering something hidden in the other.
+
+Pay attention to the repeating high-frequency patterns near the end of the recording. Examine them in fixed-size blocks. The position of a strong frequency component within each block's spectrum isn't necessarily encoded text—it can act as a step size for selecting sample positions in the opposite channel. Think about modular arithmetic, repeated steps, and positions wrapping around within a block.
+
+Once you've selected the relevant samples, simply reading their least significant bits in order won't reveal the message. Instead, consider how a group of bits can encode a smaller message through parity relationships, as seen in error-correcting codes. The frequency information you discovered earlier has another purpose here: it also influences how those parity relationships are arranged from one block to the next.
+
+Even after recovering the hidden bitstream, you're not necessarily holding the decryption key. Think carefully about how the bits should be grouped. They may represent numbers in a finite field rather than ordinary bytes, and those numbers may have undergone a reversible, frequency-like mathematical transformation.
+
+Follow the dependency between the layers: the frequency patterns guide sample selection, the selected bits reveal information through parity, and the recovered values must be mathematically reversed to reconstruct what is needed for decryption.

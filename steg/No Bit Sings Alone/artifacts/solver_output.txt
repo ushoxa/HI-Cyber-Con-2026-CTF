@@ -1,0 +1,3 @@
+vals [205, 208, 154, 114, 115, 240, 123, 108, 245, 172, 73, 192, 256, 177, 62, 202, 153, 7, 77, 138, 175, 0, 4, 68, 208, 32, 76, 169, 103, 36, 147, 216] leftover bits [0, 0]
+root 136 inv key 8da8dca0aa79a8a2b1e1aef181e98e63fcca7da26d49d6dbffdb461e3ecd544d
+b'\x002hiCTF{m4th3m4t!c5_g4v3_m3_4_l0t_Of_p4!n_8d52ae513}\xf7\xad\xb0\xdfG\xd7D\xfc\x8d,D\xe0'
