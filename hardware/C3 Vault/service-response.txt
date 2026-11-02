@@ -1,0 +1,10 @@
+C3VAULT/2 READY
+DEVICE ee0315f3953aad298d7f3f43973ad618
+CHALLENGE 74bcd13d04b8f5a0c072e3dab6bb4c2beb49f0c82f0fda25b3d561c733669b15
+Commands: help, status, auth <64 hex>, quit
+Command names are case-insensitive.
+> 
+VAULT OPENED
+hiCTF{efus3_cl34r_jt4g_0p3n_nv5_77417a8e52}
+
+
