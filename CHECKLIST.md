@@ -1,6 +1,6 @@
 # Challenge Writeup Checklist
 
-**34 of 69 writeups uploaded.** One additional challenge has supporting files only.
+**35 of 69 writeups uploaded.** One additional challenge has supporting files only.
 
 Checked boxes mean a Markdown writeup has been uploaded; they do not indicate contest acceptance or independent verification.
 
@@ -31,14 +31,14 @@ Edit this checklist as more writeups are uploaded.
 - [ ] [Entitlement](./Reverse%20Engineering/Entitlement/)
 - [ ] [Cold Circuit](./Reverse%20Engineering/Cold%20Circuit/)
 
-## Cryptography (6/8)
+## Cryptography (7/8)
 
 - [x] [Cipher Cascade](./Cryptography/Cipher%20Cascade/Cipher%20Cascade.md)
 - [x] [Tyco](./Cryptography/Tyco/Tyco.md)
 - [ ] [Log Jam](./Cryptography/Log%20Jam/)
 - [x] [ChronoGrind](./Cryptography/ChronoGrind/ChronoGrind.md)
 - [x] [Rocinate](./Cryptography/Rocinate/Rocinate.md)
-- [ ] [Just Give Me The Flag Man](./Cryptography/Just%20Give%20Me%20The%20Flag%20Man/)
+- [x] [Just Give Me The Flag Man](./Cryptography/Just%20Give%20Me%20The%20Flag%20Man/Just%20Give%20Me%20The%20Flag%20Man.md)
 - [x] [Cairn](./Cryptography/Cairn/Cairn.md)
 - [x] [Rocinate Revenge](./Cryptography/Rocinate%20Revenge/Rocinate%20Revenge.md)
 

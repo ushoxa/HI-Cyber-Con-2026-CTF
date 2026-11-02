@@ -11,7 +11,7 @@ CTF writeups, challenge solutions, solver scripts, and forensic artifacts from *
 ![HI Cyber Con 2026 — Break the Signal](assets/readme/event-banner.png)
 
 ![Placement: 2nd](https://img.shields.io/badge/Placement-2nd-ff6b00?style=for-the-badge)
-![Writeups: 34 of 69](https://img.shields.io/badge/Writeups-34%20%2F%2069-242424?style=for-the-badge)
+![Writeups: 35 of 69](https://img.shields.io/badge/Writeups-35%20%2F%2069-242424?style=for-the-badge)
 ![Status: Work in progress](https://img.shields.io/badge/Status-Work%20in%20progress-5865F2?style=for-the-badge)
 
 [**Browse the checklist**](CHECKLIST.md) · [**Contributors**](CONTRIBUTORS.md) · [**Event website**](https://hicybercon.hiddeninvestigations.net/) · [**Discord**](https://discord.gg/rD2gHUWJhf)
@@ -48,13 +48,13 @@ This repository brings together our challenge writeups, solver scripts, and supp
 
 ## Explore the writeups
 
-**34 / 69 Markdown writeups uploaded.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
+**35 / 69 Markdown writeups uploaded.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
 
 | Category | Writeups uploaded |
 | :--- | :---: |
 | 💥 [Binary Exploitation](./Binary%20Exploitation/) | **1 / 4** |
 | 🧩 [Reverse Engineering](./Reverse%20Engineering/) | **4 / 10** |
-| 🔐 [Cryptography](./Cryptography/) | **6 / 8** |
+| 🔐 [Cryptography](./Cryptography/) | **7 / 8** |
 | 🔎 [Forensics](./Forensics/) | **3 / 7** |
 | ⛓️ [Blockchain](./Blockchain/) | **1 / 5** |
 | 🌐 [Web](./Web/) | **5 / 7** |
@@ -64,7 +64,7 @@ This repository brings together our challenge writeups, solver scripts, and supp
 | 📱 [Android](./android/) | **1 / 2** |
 | ⚙️ [Hardware](./hardware/) | **4 / 5** |
 | 📡 [Network](./network/) | **1 / 2** |
-| 🖼️ [Steganography](./steg/) | **6 / 8** |
+| 🖼️ [Steganography](./steg/) | **7 / 8** |
 
 > The Inner Engine has solver and evidence files uploaded; its Markdown writeup is pending. VaultKeeper's writeup retains its disputed-result note. Upload status records available documentation, not contest acceptance.
 
@@ -76,7 +76,7 @@ This repository brings together our challenge writeups, solver scripts, and supp
 - [No Bit Sings Alone](./steg/No%20Bit%20Sings%20Alone/No%20Bit%20Sings%20Alone.md) — audio steganography and cryptography.
 
 <details>
-<summary><strong>All 34 available challenge writeups</strong></summary>
+<summary><strong>All 35 available challenge writeups</strong></summary>
 
 **Binary Exploitation**
 
@@ -91,6 +91,7 @@ This repository brings together our challenge writeups, solver scripts, and supp
 
 **Cryptography**
 
+- [Just Give Me The Flag Man](./Cryptography/Just%20Give%20Me%20The%20Flag%20Man/Just%20Give%20Me%20The%20Flag%20Man.md)
 - [Cipher Cascade](./Cryptography/Cipher%20Cascade/Cipher%20Cascade.md)
 - [Tyco](./Cryptography/Tyco/Tyco.md)
 - [ChronoGrind](./Cryptography/ChronoGrind/ChronoGrind.md)
