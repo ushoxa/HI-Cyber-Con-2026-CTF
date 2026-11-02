@@ -1,0 +1,11 @@
+{
+  "alert_id": "SEC-ALERT-49102",
+  "timestamp": "2026-10-10T10:42:15Z",
+  "sensor": "perimeter-ids-edge01",
+  "event_type": "HIGH_FREQUENCY_DNS_TUNNEL_SUSPECT",
+  "source_ip": "10.142.18.105",
+  "destination_ip": "10.142.18.1",
+  "destination_port": 53,
+  "summary": "Threshold exceeded: host 10.142.18.105 generated anomalous burst of recursive DNS queries within 3-second window. Possible DNS tunneling or C2 telemetry beacon.",
+  "notes": "NetFlow collector also noted a prior brief TCP/443 connection from the same host to infrastructure node delta.corp.internal (10.142.18.250). Workstation assigned to DevSecOps team. EDR isolation recommended pending PCAP triage."
+}
