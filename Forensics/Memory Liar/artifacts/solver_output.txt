@@ -1,0 +1,23 @@
+   offset name              pid      Flink      Blink  note
+ 0x313000 smss.exe          264 0x8031b0c0 0x8030b0c0  
+ 0x31b000 csrss.exe         336 0x803230c0 0x803130c0  
+ 0x323000 wininit.exe       384 0x8032b0c0 0x8031b0c0  
+ 0x32b000 services.exe      448 0x803330c0 0x803230c0  
+ 0x333000 lsass.exe         460 0x8033b0c0 0x8032b0c0  
+ 0x33b000 svchost.exe       628 0x803430c0 0x803330c0  
+ 0x343000 svchost.exe       744 0x8034b0c0 0x8033b0c0  
+ 0x34b000 explorer.exe     1420 0x803530c0 0x803430c0  
+ 0x353000 notepad.exe      2180 0x82811000 0x8034b0c0  
+ 0x35d000 winxnet.exe      1337 0x8035d0c0 0x8035d0c0  UNLINKED (Flink==Blink==self -> DKOM)
+
+ROOT blob @ 0x35f000: pid=1337 key=0x5d len=51
+decoded: hiCTF{dk0m_unl1nk_3pr0c3ss_l1st_cr0ss_ch3ck_7c3a9f}
+context @ 0x35f050: c2.darkshadow-apt.org:8443
+context @ 0x35f070: OP_SHADOW_LIAR_ACTIVE
+context @ 0x355000: ====================================================================
+[CONFIDENTIAL - ENDPOINT INCIDENT LOG]
+Host Audit: SEC-2026-10-19-094
+Status: System integrity validated. No hidden tasks or hooks found.
+Forensics Verification Token: hiCTF{th1s_1s_4_f4k3_d3c0y_fl4g_f0r_n00bs_883a1c}
+====================================================================
+

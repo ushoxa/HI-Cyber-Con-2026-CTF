@@ -1,0 +1,23 @@
+ 201534 ntkrpamp.pdb
+ 30b174 System
+ 313174 smss.exe
+ 31b174 csrss.exe
+ 323174 wininit.exe
+ 32b174 services.exe
+ 333174 lsass.exe
+ 33b174 svchost.exe
+ 343174 svchost.exe
+ 34b174 explorer.exe
+ 353174 notepad.exe
+ 355000 ====================================================================
+ 355046 [CONFIDENTIAL - ENDPOINT INCIDENT LOG]
+ 35506e Host Audit: SEC-2026-10-19-094
+ 35508e Status: System integrity validated. No hidden tasks or hooks found.
+ 3550d3 Forensics Verification Token: hiCTF{th1s_1s_4_f4k3_d3c0y_fl4g_f0r_n00bs_883a1c}
+ 355124 ====================================================================
+ 35d174 winxnet.exe
+ 35f01b (31l36
+ 35f022 n-/m>n..
+ 35f03c j>n<d; 
+ 35f050 c2.darkshadow-apt.org:8443
+ 35f070 OP_SHADOW_LIAR_ACTIVE
