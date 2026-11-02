@@ -1,0 +1,9 @@
+Those numbers are process counts, not tab counts.
+So in your screenshot:
+Google Chrome (15) = Chrome currently has 15 separate processes running.
+Firefox (10) = Firefox currently has 10 separate processes running.
+Even with only one tab, modern browsers deliberately split work across multiple processes for stability, security, and performance. These can include the main browser process, the tab renderer, GPU process, network/audio utilities, extension processes, crash reporting, and—in Chrome especially—extra renderer processes because of Site Isolation.
+That is why one Chrome tab can easily show 10–20 processes, and one Firefox tab may show around 8–12.
+You can click the small &gt; arrow beside Chrome or Firefox in Task Manager to see exactly what those processes are.
+Your screenshot does not look abnormal. The more relevant thing is RAM usage: Chrome is using about 992 MB and Firefox about 873 MB. That's somewhat heavy for one simple tab each, but it can still be normal depending on the website, extensions, browser background services, and cached processes.
+If you want, I can also show you how to find exactly what is consuming that ~1 GB in Chrome and Firefox and reduce it.

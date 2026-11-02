@@ -1,0 +1,3 @@
+steghide key from docx whitespace: haha! u got me, now what?
+wrote extracted data to "/home/shoxrux/Downloads/hiCTF-writeups/05-Whispers-in-the-Margin/artifacts/steghide_extracted.txt".
+hiCTF{573g4n0gr4phy_!5_fun}
