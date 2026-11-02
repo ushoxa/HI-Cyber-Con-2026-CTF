@@ -11,7 +11,7 @@ CTF writeups, challenge solutions, solver scripts, and forensic artifacts from *
 ![HI Cyber Con 2026 — Break the Signal](assets/readme/event-banner.png)
 
 ![Placement: 2nd](https://img.shields.io/badge/Placement-2nd-ff6b00?style=for-the-badge)
-![Writeups: 39 of 69](https://img.shields.io/badge/Writeups-39%20%2F%2069-242424?style=for-the-badge)
+![Writeups: 47 of 69](https://img.shields.io/badge/Writeups-47%20%2F%2069-242424?style=for-the-badge)
 ![Status: Work in progress](https://img.shields.io/badge/Status-Work%20in%20progress-5865F2?style=for-the-badge)
 
 [**Browse the checklist**](CHECKLIST.md) · [**Contributors**](CONTRIBUTORS.md) · [**Event website**](https://hicybercon.hiddeninvestigations.net/) · [**Discord**](https://discord.gg/rD2gHUWJhf)
@@ -48,22 +48,22 @@ This repository brings together our challenge writeups, solver scripts, and supp
 
 ## Explore the writeups
 
-**39 / 69 writeups uploaded.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
+**47 / 69 writeups uploaded.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
 
 | Category | Writeups uploaded |
 | :--- | :---: |
 | 💥 [Binary Exploitation](./Binary%20Exploitation/) | **1 / 4** |
-| 🧩 [Reverse Engineering](./Reverse%20Engineering/) | **4 / 10** |
+| 🧩 [Reverse Engineering](./Reverse%20Engineering/) | **6 / 10** |
 | 🔐 [Cryptography](./Cryptography/) | **7 / 8** |
-| 🔎 [Forensics](./Forensics/) | **3 / 7** |
-| ⛓️ [Blockchain](./Blockchain/) | **1 / 5** |
+| 🔎 [Forensics](./Forensics/) | **5 / 7** |
+| ⛓️ [Blockchain](./Blockchain/) | **2 / 5** |
 | 🌐 [Web](./Web/) | **5 / 7** |
-| 🗂️ [Miscellaneous](./Miscellaneous/) | **1 / 6** |
+| 🗂️ [Miscellaneous](./Miscellaneous/) | **2 / 6** |
 | 🛰️ [OSINT](./OSINT/) | **4 / 4** |
 | 🤖 [AI / LLM](./ai-llm/) | **1 / 1** |
-| 📱 [Android](./android/) | **1 / 2** |
+| 📱 [Android](./android/) | **2 / 2** |
 | ⚙️ [Hardware](./hardware/) | **4 / 5** |
-| 📡 [Network](./network/) | **1 / 2** |
+| 📡 [Network](./network/) | **2 / 2** |
 | 🖼️ [Steganography](./steg/) | **6 / 8** |
 
 > The Inner Engine has solver and evidence files uploaded; its Markdown writeup is pending. VaultKeeper's writeup retains its disputed-result note. Upload status records available documentation, not contest acceptance.
@@ -76,13 +76,17 @@ This repository brings together our challenge writeups, solver scripts, and supp
 - [No Bit Sings Alone](./steg/No%20Bit%20Sings%20Alone/No%20Bit%20Sings%20Alone.md) — audio steganography and cryptography.
 
 <details>
-<summary><strong>All 39 available challenge writeups</strong></summary>
+<summary><strong>All 47 available challenge writeups</strong></summary>
 
 **Binary Exploitation**
 
 - [Titan Relay](./Binary%20Exploitation/Titan%20Relay/Titan%20Relay.md)
 
 **Reverse Engineering**
+
+- [Cold Circuit](./Reverse%20Engineering/Cold%20Circuit/Cold%20Circuit.md)
+
+- [Snapfile](./Reverse%20Engineering/Snapfile/Snapfile.md)
 
 - [Cold Beacon](./Reverse%20Engineering/Cold%20Beacon/Cold%20Beacon.md)
 - [Night Batch](./Reverse%20Engineering/Night%20Batch/Night%20Batch.md)
@@ -101,11 +105,17 @@ This repository brings together our challenge writeups, solver scripts, and supp
 
 **Forensics**
 
+- [The Miner That Mined The Victim](./Forensics/The%20Miner%20That%20Mined%20The%20Victim/The%20Miner%20That%20Mined%20The%20Victim.md)
+
+- [Ghost in RAM](./Forensics/Ghost%20in%20RAM/Ghost%20in%20RAM.md)
+
 - [Ghost in the Wire](./Forensics/Ghost%20in%20the%20Wire/Ghost%20in%20the%20Wire.md)
 - [Broken Signals](./Forensics/Broken%20Signals/Broken%20Signals.md)
 - [Memory Liar](./Forensics/Memory%20Liar/Memory%20Liar.md)
 
 **Blockchain**
+
+- [Pruned Ledger](./Blockchain/Pruned%20Ledger/Pruned%20Ledger.md)
 
 - [Standing Order](./Blockchain/Standing%20Order/Standing%20Order.md)
 
@@ -118,6 +128,8 @@ This repository brings together our challenge writeups, solver scripts, and supp
 - [The Coffee Shop](./Web/The%20Coffee%20Shop/The%20Coffee%20Shop.md)
 
 **Miscellaneous**
+
+- [Dead Air](./Miscellaneous/Dead%20Air/Dead%20Air.md)
 
 - [Labyrinth](./Miscellaneous/Labyrinth/Labyrinth.md)
 
@@ -137,6 +149,8 @@ This repository brings together our challenge writeups, solver scripts, and supp
 
 **android**
 
+- [Cipher](./android/Cipher/Cipher.md)
+
 - [VaultKeeper](./android/VaultKeeper/VaultKeeper.md)
 
 **hardware**
@@ -147,6 +161,8 @@ This repository brings together our challenge writeups, solver scripts, and supp
 - [Ground Station](./hardware/Ground%20Station/Ground%20Station.md)
 
 **network**
+
+- [The Quiet Divide](./network/The%20Quiet%20Divide/The%20Quiet%20Divide.md)
 
 - [Operation Chimera](./network/Operation%20Chimera/Operation%20Chimera.md)
 
