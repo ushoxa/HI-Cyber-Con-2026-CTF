@@ -1,0 +1,9 @@
+"zanzibar_whisper.jpg":
+  format: jpeg
+  capacity: 6.4 KB
+  embedded file "zanzibar_flag2.txt":
+    size: 28.0 Byte
+    encrypted: rijndael-128, cbc
+    compressed: yes
+wrote extracted data to "/home/shoxrux/Downloads/hiCTF-writeups/04-Zanzibar-Whisper/artifacts/zanzibar_flag2.txt".
+hiCTF{sp1c3_1sl4nd_s3cr3ts}
