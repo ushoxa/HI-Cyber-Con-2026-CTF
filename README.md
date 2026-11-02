@@ -1,10 +1,12 @@
 <div align="center">
 
-# HI Cyber Con 2026 CTF
+# HI Cyber Con 2026 CTF Writeups
 
 ### 🥈 2nd Place · Fr4ctur3 (Only_AI)
 
 **48 hours. One scoreboard. A collection of what we learned.**
+
+CTF writeups, challenge solutions, solver scripts, and forensic artifacts from **HI Cyber Con 2026 (HI CyberCon / HICyberCon)** by **Fr4ctur3 (Only_AI)**, second-place team.
 
 ![HI Cyber Con 2026 — Break the Signal](assets/readme/event-banner.png)
 
@@ -73,6 +75,79 @@ This repository brings together our challenge writeups, solver scripts, and supp
 - [Operation Chimera](./network/Operation%20Chimera/Operation%20Chimera.md) — traffic investigation, extracted HTTP objects, and hidden exfiltration.
 - [No Bit Sings Alone](./steg/No%20Bit%20Sings%20Alone/No%20Bit%20Sings%20Alone.md) — audio steganography and cryptography.
 
+<details>
+<summary><strong>All 32 available challenge writeups</strong></summary>
+
+**Binary Exploitation**
+
+- [Titan Relay](./Binary%20Exploitation/Titan%20Relay/Titan%20Relay.md)
+
+**Reverse Engineering**
+
+- [Obfuscated Flow](./Reverse%20Engineering/Obfuscated%20Flow/Obfuscated%20Flow.md)
+- [Signal Lock](./Reverse%20Engineering/Signal%20Lock/Signal%20Lock.md)
+
+**Cryptography**
+
+- [Cipher Cascade](./Cryptography/Cipher%20Cascade/Cipher%20Cascade.md)
+- [Tyco](./Cryptography/Tyco/Tyco.md)
+- [ChronoGrind](./Cryptography/ChronoGrind/ChronoGrind.md)
+- [Rocinate](./Cryptography/Rocinate/Rocinate.md)
+- [Cairn](./Cryptography/Cairn/Cairn.md)
+- [Rocinate Revenge](./Cryptography/Rocinate%20Revenge/Rocinate%20Revenge.md)
+
+**Forensics**
+
+- [Ghost in the Wire](./Forensics/Ghost%20in%20the%20Wire/Ghost%20in%20the%20Wire.md)
+- [Broken Signals](./Forensics/Broken%20Signals/Broken%20Signals.md)
+- [Memory Liar](./Forensics/Memory%20Liar/Memory%20Liar.md)
+
+**Blockchain**
+
+- [Standing Order](./Blockchain/Standing%20Order/Standing%20Order.md)
+
+**Web**
+
+- [File Viewer](./Web/File%20Viewer/File%20Viewer.md)
+- [Stillwell Estates](./Web/Stillwell%20Estates/Stillwell%20Estates.md)
+- [Overgrowth](./Web/Overgrowth/Overgrowth.md)
+- [Ouroboros](./Web/Ouroboros/Ouroboros.md)
+- [The Coffee Shop](./Web/The%20Coffee%20Shop/The%20Coffee%20Shop.md)
+
+**Miscellaneous**
+
+- [Labyrinth](./Miscellaneous/Labyrinth/Labyrinth.md)
+
+**ai-llm**
+
+- [Blind Index](./ai-llm/Blind%20Index/Blind%20Index.md)
+
+**android**
+
+- [VaultKeeper](./android/VaultKeeper/VaultKeeper.md)
+
+**hardware**
+
+- [Tasmota Vault](./hardware/Tasmota%20Vault/Tasmota%20Vault.md)
+- [GhostBus](./hardware/GhostBus/GhostBus.md)
+- [C3 Vault](./hardware/C3%20Vault/C3%20Vault.md)
+- [Ground Station](./hardware/Ground%20Station/Ground%20Station.md)
+
+**network**
+
+- [Operation Chimera](./network/Operation%20Chimera/Operation%20Chimera.md)
+
+**steg**
+
+- [Roof of Africa](./steg/Roof%20of%20Africa/Roof%20of%20Africa.md)
+- [Zanzibar Whisper](./steg/Zanzibar%20Whisper/Zanzibar%20Whisper.md)
+- [Whispers in the Margin](./steg/Whispers%20in%20the%20Margin/Whispers%20in%20the%20Margin.md)
+- [Echoes of a Forgotten Canvas](./steg/Echoes%20of%20a%20Forgotten%20Canvas/Echoes%20of%20a%20Forgotten%20Canvas.md)
+- [Paper Trail](./steg/Paper%20Trail/Paper%20Trail.md)
+- [No Bit Sings Alone](./steg/No%20Bit%20Sings%20Alone/No%20Bit%20Sings%20Alone.md)
+
+</details>
+
 ## Inside each challenge folder
 
 Writeups use the **challenge name**, such as `The Coffee Shop.md`, rather than `README.md`. Depending on the supplied material, folders also include solver code, original challenge archives, extracted artifacts, screenshots, and verification output.
@@ -102,6 +177,12 @@ Explore the event and connect with **Hidden Investigations** through the links p
 | **Code & CTF** | [GitHub](https://github.com/Hidden-Investigations) · [CTFtime team](https://ctftime.org/team/188318) |
 | **Organizer** | [Hidden Investigations](https://hiddeninvestigations.net/) · [Contact](https://hiddeninvestigations.net/contact) · [hi@hiddeninvestigations.net](mailto:hi@hiddeninvestigations.net) |
 
+## Contribute a writeup
+
+Have a missing HI Cyber Con 2026 solution or a correction? Open a pull request with your writeup in the matching challenge folder, name the file after the challenge, and keep your author credit. Include reproduction steps and supporting files when available. Update [CHECKLIST.md](CHECKLIST.md) and the progress counts when adding a new writeup.
+
+If this collection helps you, consider starring it or sharing a useful challenge writeup with the CTF community.
+
 ## Acknowledgments
 
 Thank you to Hidden Investigations, the organizers, challenge authors, and the wider CTF community for the competition. The event artwork and screenshots above belong to their respective owners; this is our team's writeup collection.
@@ -112,6 +193,6 @@ Thank you to Hidden Investigations, the organizers, challenge authors, and the w
 
 **Break the signal. Share the solution.**
 
-[Back to top](#hi-cyber-con-2026-ctf)
+[Back to top](#hi-cyber-con-2026-ctf-writeups)
 
 </div>
