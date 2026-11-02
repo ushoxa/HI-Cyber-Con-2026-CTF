@@ -1,0 +1,5 @@
+chunks: ['Line', 'Type', 'AtU8', 'Code', 'StrT', 'ImpT', 'ExpT', 'LitT', 'Meta']
+atoms: ['signal_lock', 'verify', 'erlang', 'byte_size', 'no_fail', 'ensure_exactly', 'integer', 'ok', 'transform', 'bxor', '*', 'band', '+', 'rotl', 'bsl', 'bsr', 'bor', 'unlock', 'binary_to_list', 'lists', 'zip', 'list_to_binary', 'keystream', 'binary', 'part', 'sha256', 'crypto', 'hash', 'private_append', 'all', 'cipher', 'module_info', 'get_module_info', '-unlock/1-lc$^0/1-0-']
+cipher literal (48 bytes): f3a78b575b93c60be646d9eefd1f0aa0ac5ac53a2b0107f1a5c84adf4d989dc06c09680db73f54ad89bdd8ae0530c27b
+N = 0x67346d3330763372  token = b'g4m30v3r'
+flag: hiCTF{b34m_byt3c0d3_n3v3r_l13s_s3ss10n_unl0ck3d}
