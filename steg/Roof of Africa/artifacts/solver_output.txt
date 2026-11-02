@@ -1,0 +1,10 @@
+"roof_of_africa.jpg":
+  format: jpeg
+  capacity: 31.4 KB
+  embedded file "roof_flag_v2.txt":
+    size: 38.0 Byte
+    encrypted: rijndael-128, cbc
+    compressed: yes
+wrote extracted data to "/home/shoxrux/Downloads/hiCTF-writeups/07-Roof-of-Africa/artifacts/steghide_extracted.txt".
+hiCTF{h4kun4_m4t4t4_m34ns_n0_w0rr13s}
+

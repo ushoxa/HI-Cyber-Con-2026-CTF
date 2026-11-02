@@ -1,0 +1,23 @@
+ExifTool Version Number         : 13.55
+File Name                       : roof_of_africa.jpg
+Directory                       : /tmp/claude-1000/-home-shoxrux/19bc9c5e-52cb-482f-ae7d-d783ca01091a/scratchpad/x/roof-of-africa
+File Size                       : 625 kB
+File Modification Date/Time     : 2026:10:15 17:48:52+05:00
+File Access Date/Time           : 2026:11:02 16:56:05+05:00
+File Inode Change Date/Time     : 2026:11:02 16:52:43+05:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1600
+Image Height                    : 1056
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1600x1056
+Megapixels                      : 1.7
