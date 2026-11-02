@@ -1,0 +1,8 @@
+seal (SHA256 of flag): e4f870dad765bfab3d282870ec136b8f450dc8c606cd894b9ea78c91736a5272
+ct  : 9a40bd7dd28fe31997a3de379af40bd87d815f4413fdbd86100c465179799c4202f983c0d7974e1c
+VM-constraint solutions (printable): 2
+
+*** FOUND KEY ***
+key  : L1c#N0d3_7mQ9f3a2b8c6d1e
+flag : hiCTF{vm_byt3c0d3_1nn3r_3ng1n3_unw0und!}
+verify SHA256(flag)==seal: True
