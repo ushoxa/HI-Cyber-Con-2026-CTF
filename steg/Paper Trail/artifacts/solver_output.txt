@@ -1,0 +1,9 @@
+trailer /ID[0] (key): e3b51a3ba231502d79c55593eb522037
+trailer /ID[1] (iv) : 6749db1175e3e659a640695dcc830c82
+obj 179: 6 TJ rows, longest=23 values
+obj 180: 6 TJ rows, longest=23 values
+obj 181: 4 TJ rows, longest=24 values
+obj 182: 4 TJ rows, longest=6 values
+payload bytes: 64
+plaintext: b'CTF1\x00(hiCTF{n3w_ar34_fOr_hid!ng_d4t4_n4m3d_TJ}\x90\x8a\x1a\x00\n\xd4\xb3l\n\n\n\n\n\n\n\n\n\n'
+flag: hiCTF{n3w_ar34_fOr_hid!ng_d4t4_n4m3d_TJ}
