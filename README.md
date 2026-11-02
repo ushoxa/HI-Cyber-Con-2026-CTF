@@ -64,7 +64,7 @@ This repository brings together our challenge writeups, solver scripts, and supp
 | 📱 [Android](./android/) | **1 / 2** |
 | ⚙️ [Hardware](./hardware/) | **4 / 5** |
 | 📡 [Network](./network/) | **1 / 2** |
-| 🖼️ [Steganography](./steg/) | **7 / 8** |
+| 🖼️ [Steganography](./steg/) | **6 / 8** |
 
 > The Inner Engine has solver and evidence files uploaded; its Markdown writeup is pending. VaultKeeper's writeup retains its disputed-result note. Upload status records available documentation, not contest acceptance.
 
