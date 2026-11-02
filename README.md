@@ -190,6 +190,7 @@ Some folders currently contain only a `.gitkeep` placeholder. They are ready for
 | | GitHub |
 | :--- | :--- |
 | Repository maintainer | [ushoxa](https://github.com/ushoxa) |
+| Connect with me | [LinkedIn](https://www.linkedin.com/in/ushoxa/) · [Telegram @ushoxa](https://t.me/ushoxa) · [Instagram @vipshoxa](https://www.instagram.com/vipshoxa/) |
 | Contributors | [tinhatinh](https://github.com/tinhatinh) · [shodmonovvx](https://github.com/shodmonovvx) · [Isroilov-Sardor](https://github.com/Isroilov-Sardor) · [ortikovs](https://github.com/ortikovs) |
 
 See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the contributor list. Individual writeups preserve their supplied author credits.
