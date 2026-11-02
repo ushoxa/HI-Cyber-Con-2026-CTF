@@ -11,7 +11,7 @@ CTF writeups, challenge solutions, solver scripts, and forensic artifacts from *
 ![HI Cyber Con 2026 — Break the Signal](assets/readme/event-banner.png)
 
 ![Placement: 2nd](https://img.shields.io/badge/Placement-2nd-ff6b00?style=for-the-badge)
-![Writeups: 32 of 69](https://img.shields.io/badge/Writeups-32%20%2F%2069-242424?style=for-the-badge)
+![Writeups: 34 of 69](https://img.shields.io/badge/Writeups-34%20%2F%2069-242424?style=for-the-badge)
 ![Status: Work in progress](https://img.shields.io/badge/Status-Work%20in%20progress-5865F2?style=for-the-badge)
 
 [**Browse the checklist**](CHECKLIST.md) · [**Contributors**](CONTRIBUTORS.md) · [**Event website**](https://hicybercon.hiddeninvestigations.net/) · [**Discord**](https://discord.gg/rD2gHUWJhf)
@@ -48,12 +48,12 @@ This repository brings together our challenge writeups, solver scripts, and supp
 
 ## Explore the writeups
 
-**32 / 69 Markdown writeups uploaded.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
+**34 / 69 Markdown writeups uploaded.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
 
 | Category | Writeups uploaded |
 | :--- | :---: |
 | 💥 [Binary Exploitation](./Binary%20Exploitation/) | **1 / 4** |
-| 🧩 [Reverse Engineering](./Reverse%20Engineering/) | **2 / 10** |
+| 🧩 [Reverse Engineering](./Reverse%20Engineering/) | **4 / 10** |
 | 🔐 [Cryptography](./Cryptography/) | **6 / 8** |
 | 🔎 [Forensics](./Forensics/) | **3 / 7** |
 | ⛓️ [Blockchain](./Blockchain/) | **1 / 5** |
@@ -76,7 +76,7 @@ This repository brings together our challenge writeups, solver scripts, and supp
 - [No Bit Sings Alone](./steg/No%20Bit%20Sings%20Alone/No%20Bit%20Sings%20Alone.md) — audio steganography and cryptography.
 
 <details>
-<summary><strong>All 32 available challenge writeups</strong></summary>
+<summary><strong>All 34 available challenge writeups</strong></summary>
 
 **Binary Exploitation**
 
@@ -84,6 +84,8 @@ This repository brings together our challenge writeups, solver scripts, and supp
 
 **Reverse Engineering**
 
+- [Cold Beacon](./Reverse%20Engineering/Cold%20Beacon/Cold%20Beacon.md)
+- [Night Batch](./Reverse%20Engineering/Night%20Batch/Night%20Batch.md)
 - [Obfuscated Flow](./Reverse%20Engineering/Obfuscated%20Flow/Obfuscated%20Flow.md)
 - [Signal Lock](./Reverse%20Engineering/Signal%20Lock/Signal%20Lock.md)
 

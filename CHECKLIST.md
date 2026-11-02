@@ -1,6 +1,6 @@
 # Challenge Writeup Checklist
 
-**32 of 69 writeups uploaded.** One additional challenge has supporting files only.
+**34 of 69 writeups uploaded.** One additional challenge has supporting files only.
 
 Checked boxes mean a Markdown writeup has been uploaded; they do not indicate contest acceptance or independent verification.
 
@@ -18,12 +18,12 @@ Edit this checklist as more writeups are uploaded.
 - [ ] [Project Mangoo](./Binary%20Exploitation/Project%20Mangoo/)
 - [x] [Titan Relay](./Binary%20Exploitation/Titan%20Relay/Titan%20Relay.md)
 
-## Reverse Engineering (2/10)
+## Reverse Engineering (4/10)
 
-- [ ] [Cold Beacon](./Reverse%20Engineering/Cold%20Beacon/)
+- [x] [Cold Beacon](./Reverse%20Engineering/Cold%20Beacon/Cold%20Beacon.md)
 - [ ] [Epsilon Drift](./Reverse%20Engineering/Epsilon%20Drift/)
 - [x] [Obfuscated Flow](./Reverse%20Engineering/Obfuscated%20Flow/Obfuscated%20Flow.md)
-- [ ] [Night Batch](./Reverse%20Engineering/Night%20Batch/)
+- [x] [Night Batch](./Reverse%20Engineering/Night%20Batch/Night%20Batch.md)
 - [ ] [Last Execution](./Reverse%20Engineering/Last%20Execution/)
 - [x] [Signal Lock](./Reverse%20Engineering/Signal%20Lock/Signal%20Lock.md)
 - [ ] [The Inner Engine](./Reverse%20Engineering/The%20Inner%20Engine/) — supporting files uploaded; writeup pending
