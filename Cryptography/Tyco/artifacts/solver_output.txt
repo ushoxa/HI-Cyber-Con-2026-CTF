@@ -1,0 +1,17 @@
+deg 56263 56262
+deg 28131 28130
+deg 14065 14064
+deg 7033 7032
+deg 3517 3516
+deg 1759 1758
+deg 879 878
+deg 439 438
+deg 219 218
+deg 109 108
+deg 55 54
+deg 27 26
+deg 12 11
+deg 5 4
+deg 2 1
+gcd degree: 1
+b'hiCTF{your_ai_slop_bores_me}'
