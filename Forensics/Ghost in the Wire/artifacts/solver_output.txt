@@ -1,0 +1,13 @@
+192.168.1.100 -> 10.0.0.5: 4 packets, ids=[4919]
+   seq=1 payload=b'AAAAAAAAAAAAAAAA'
+   seq=2 payload=b'ping from server1'
+   seq=10 payload=b'health check ok  '
+   seq=11 payload=b'monitor alive 001'
+10.13.37.1 -> 10.13.37.2: 26 packets, ids=[4919]
+   seq=1 payload=b'h'
+   seq=2 payload=b'i'
+   seq=3 payload=b'C'
+   seq=4 payload=b'T'
+   seq=5 payload=b'F'
+
+Covert stream ('10.13.37.1', '10.13.37.2') -> hiCTF{1cmp_3xf1l_d3t3ct3d}
