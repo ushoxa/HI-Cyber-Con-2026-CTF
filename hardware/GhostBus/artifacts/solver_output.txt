@@ -1,0 +1,17 @@
+secret (24): 04325a9c117f3da0c0ffee5aa55a00ff1234567890abcdef
+SE frame LEN=0x10 CMD=0x10
+nonce (16): 9e3b7a44c1d05f82a6e1b4907cd3f5a2
+sha256 full: 664ecd32a0a21d02a90afb1efb6919b120a1d5c834dc4255d67e9e1e45c45b61
+aes128 key : 664ecd32a0a21d02a90afb1efb6919b1
+iv (nonce) : 9e3b7a44c1d05f82a6e1b4907cd3f5a2
+ct raw     : bf4104ca13efeaef33d742378ccff4cc741ed9df3761005fd530c13789cfd1cac49087603aa31566bc579f0ac22bdecb
+ct swapped : ca0441bfefeaef133742d733ccf4cf8cdfd91e745f00613737c130d5cad1cf89608790c46615a33a0a9f57bccbde2bc2
+
+== decrypt (SWAPPED ciphertext) ==
+hex : 68694354467b67683073745f6275355f756172745f6e306e63335f72337633616c5f3963336631327d07070707070707
+repr: b'hiCTF{gh0st_bu5_uart_n0nc3_r3v3al_9c3f12}\x07\x07\x07\x07\x07\x07\x07'
+PKCS7 ok, pad=7 -> FLAG: hiCTF{gh0st_bu5_uart_n0nc3_r3v3al_9c3f12}
+
+== decrypt (RAW ciphertext) ==
+hex : 5e65e684bcb38aed4c41d5b510b1b9a6c74c13c7fc53c09908c78c2dc373733128448921b3d7d6452c829be4cc4ea1d2
+repr: b'^e\xe6\x84\xbc\xb3\x8a\xedLA\xd5\xb5\x10\xb1\xb9\xa6\xc7L\x13\xc7\xfcS\xc0\x99\x08\xc7\x8c-\xc3ss1(D\x89!\xb3\xd7\xd6E,\x82\x9b\xe4\xccN\xa1\xd2'
