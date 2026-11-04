@@ -12,7 +12,7 @@ CTF writeups, challenge solutions, solver scripts, and forensic artifacts from *
 
 ![Placement: 2nd](https://img.shields.io/badge/Placement-2nd-ff6b00?style=for-the-badge)
 ![Documentation: 69 of 69](https://img.shields.io/badge/Documentation-69%20%2F%2069-242424?style=for-the-badge)
-![Status: Work in progress](https://img.shields.io/badge/Status-Work%20in%20progress-5865F2?style=for-the-badge)
+![Status: Finished](https://img.shields.io/badge/Status-Finished-2ea44f?style=for-the-badge)
 
 [**Browse the checklist**](CHECKLIST.md) · [**Contributors**](CONTRIBUTORS.md) · [**Event website**](https://hicybercon.hiddeninvestigations.net/) · [**Discord**](https://discord.gg/rD2gHUWJhf)
 
@@ -23,10 +23,10 @@ CTF writeups, challenge solutions, solver scripts, and forensic artifacts from *
 | Name | Socials |
 | :--- | :--- |
 | **Shoxrux Umirzoqov** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-ushoxa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ushoxa/) [![Telegram](https://img.shields.io/badge/Telegram-ushoxa-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ushoxa) [![Instagram](https://img.shields.io/badge/Instagram-vipshoxa-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vipshoxa/) |
-| Shodmonov Xushnudbek | — |
-| Isroilov Sardor | — |
-| Ortiqov Isfandiyor | — |
-| Ravshanov Xumoyun | — |
+| Shodmonov Xushnudbek | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xushnudbek-shodmonov-a52b63395/) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/shodmonovvx) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shodmonovv.x/) |
+| Isroilov Sardor | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sardor-isroilov-b17242237/) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/isroilov_sardor) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/isroilov_sardor77/) |
+| Ortiqov Isfandiyor | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isfandiyor-ortiqov-ba3487369/) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ortikov_802) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ortkvi/) |
+| Ravshanov Xumoyun | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xumoyun-ravshanov-4510b8447/) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xumoyunRavshanov) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/xumoyunrav_shanov/) |
 
 ---
 
@@ -34,7 +34,9 @@ CTF writeups, challenge solutions, solver scripts, and forensic artifacts from *
 
 We placed **2nd at HI Cyber Con 2026 CTF** as **Fr4ctur3 (Only_AI)**. The platform screenshot above shows **Only_AI ranked 2nd out of 1,119 teams**.
 
-This repository brings together our challenge writeups, solver scripts, and supporting artifacts. We are adding writeups as they become ready so others can follow the reasoning, reproduce the techniques, and learn from the event.
+This finished collection documents all 69 challenges with 47 existing writeups and 22 credited source summaries, alongside available solver scripts and supporting artifacts. Browse by category or challenge name to study the methods and follow the available reproduction steps. Corrections and fuller reproductions remain welcome.
+
+**Collection status: Finished · 69/69 challenges documented · Updated 4 November 2026.**
 
 ## The event
 
@@ -57,6 +59,8 @@ This repository brings together our challenge writeups, solver scripts, and supp
 </details>
 
 ## Explore the writeups
+
+Looking for **HI Cyber Con 2026 CTF writeups**, **HI CyberCon solutions**, or a specific challenge? The checklist links every challenge by name. Categories cover pwn, reverse engineering, cryptography, forensics, blockchain, web security, OSINT, AI/LLM, Android, hardware, network analysis, miscellaneous and steganography.
 
 **69 / 69 challenges documented: 47 existing writeups and 22 credited source summaries.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
 
@@ -229,9 +233,9 @@ Explore the event and connect with **Hidden Investigations** through the links p
 | **Code & CTF** | [GitHub](https://github.com/Hidden-Investigations) · [CTFtime team](https://ctftime.org/team/188318) |
 | **Organizer** | [Hidden Investigations](https://hiddeninvestigations.net/) · [Contact](https://hiddeninvestigations.net/contact) · [hi@hiddeninvestigations.net](mailto:hi@hiddeninvestigations.net) |
 
-## Contribute a writeup
+## Corrections & contributions
 
-Have a missing HI Cyber Con 2026 solution or a correction? Open a pull request with your writeup in the matching challenge folder, name the file after the challenge, and keep your author credit. Include reproduction steps and supporting files when available. Update [CHECKLIST.md](CHECKLIST.md) and the progress counts when adding a new writeup.
+Have a fuller HI Cyber Con 2026 solution, reproduction script, or correction? Open a pull request with your writeup in the matching challenge folder, name the file after the challenge, and keep your author credit. Include reproduction steps and supporting files when available. Update [CHECKLIST.md](CHECKLIST.md) and the progress counts when adding a new writeup.
 
 If this collection helps you, consider starring it or sharing a useful challenge writeup with the CTF community.
 
