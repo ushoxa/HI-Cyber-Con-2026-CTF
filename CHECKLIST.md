@@ -1,84 +1,87 @@
 # Challenge Writeup Checklist
 
-**47 of 69 writeups uploaded.** One additional challenge has supporting files only.
+**69 of 69 challenges documented: 47 existing writeups and 22 source-based solution summaries.**
 
-Checked boxes mean a writeup (Markdown or PDF) has been uploaded; they do not indicate contest acceptance or independent verification.
+Checked boxes mean documentation (Markdown or PDF) is available. Entries marked **source summary** paraphrase credited third-party articles and are not independently reproduced solves. A checked box does not indicate contest acceptance.
 
 ## Upload notes
 
 - **Dead Air:** message recovered; lowercase flag candidate not confirmed accepted in the available solve history.
 
-- **The Inner Engine:** solver, challenge archive, and artifacts uploaded; Markdown writeup pending.
+- **The Inner Engine:** existing supporting files are now accompanied by a credited source summary.
 - **VaultKeeper:** uploaded writeup retains its disputed-result note.
 
-Edit this checklist as more writeups are uploaded.
+- **Orphaned Context:** source reports a local fixture value, not a validated contest flag.
+- **External sources:** [p4ndora.ai / Offensive Lab](https://p4ndora.ai/benchmarks/hi-cyber-con-2026/) and [Phan Thành Danh / tinhatinh (CTFWU)](https://tinhatinh.github.io/CTFWU/en/events/hi-cyber-con-2026-ctf/).
 
-## Binary Exploitation (1/4)
+Source summaries were added on 4 November 2026. They preserve reported-result caveats and link to the originals.
 
-- [ ] [Apex Engine](./Binary%20Exploitation/Apex%20Engine/)
-- [ ] [LetMeOut](./Binary%20Exploitation/LetMeOut/)
-- [ ] [Project Mangoo](./Binary%20Exploitation/Project%20Mangoo/)
+## Binary Exploitation (4/4)
+
+- [x] [Apex Engine](./Binary%20Exploitation/Apex%20Engine/Apex%20Engine.md) — **source summary**
+- [x] [LetMeOut](./Binary%20Exploitation/LetMeOut/LetMeOut.md) — **source summary**
+- [x] [Project Mangoo](./Binary%20Exploitation/Project%20Mangoo/Project%20Mangoo.md) — **source summary**
 - [x] [Titan Relay](./Binary%20Exploitation/Titan%20Relay/Titan%20Relay.md)
 
-## Reverse Engineering (6/10)
+## Reverse Engineering (10/10)
 
 - [x] [Cold Beacon](./Reverse%20Engineering/Cold%20Beacon/Cold%20Beacon.md)
-- [ ] [Epsilon Drift](./Reverse%20Engineering/Epsilon%20Drift/)
+- [x] [Epsilon Drift](./Reverse%20Engineering/Epsilon%20Drift/Epsilon%20Drift.md) — **source summary**
 - [x] [Obfuscated Flow](./Reverse%20Engineering/Obfuscated%20Flow/Obfuscated%20Flow.md)
 - [x] [Night Batch](./Reverse%20Engineering/Night%20Batch/Night%20Batch.md)
-- [ ] [Last Execution](./Reverse%20Engineering/Last%20Execution/)
+- [x] [Last Execution](./Reverse%20Engineering/Last%20Execution/Last%20Execution.md) — **source summary**
 - [x] [Signal Lock](./Reverse%20Engineering/Signal%20Lock/Signal%20Lock.md)
-- [ ] [The Inner Engine](./Reverse%20Engineering/The%20Inner%20Engine/) — supporting files uploaded; writeup pending
+- [x] [The Inner Engine](./Reverse%20Engineering/The%20Inner%20Engine/The%20Inner%20Engine.md) — **source summary**
 - [x] [Snapfile](./Reverse%20Engineering/Snapfile/Snapfile.md)
-- [ ] [Entitlement](./Reverse%20Engineering/Entitlement/)
+- [x] [Entitlement](./Reverse%20Engineering/Entitlement/Entitlement.md) — **source summary**
 - [x] [Cold Circuit](./Reverse%20Engineering/Cold%20Circuit/Cold%20Circuit.md)
 
-## Cryptography (7/8)
+## Cryptography (8/8)
 
 - [x] [Cipher Cascade](./Cryptography/Cipher%20Cascade/Cipher%20Cascade.md)
 - [x] [Tyco](./Cryptography/Tyco/Tyco.md)
-- [ ] [Log Jam](./Cryptography/Log%20Jam/)
+- [x] [Log Jam](./Cryptography/Log%20Jam/Log%20Jam.md) — **source summary**
 - [x] [ChronoGrind](./Cryptography/ChronoGrind/ChronoGrind.md)
 - [x] [Rocinate](./Cryptography/Rocinate/Rocinate.md)
 - [x] [Just Give Me The Flag Man](./Cryptography/Just%20Give%20Me%20The%20Flag%20Man/Just%20Give%20Me%20The%20Flag%20Man.md)
 - [x] [Cairn](./Cryptography/Cairn/Cairn.md)
 - [x] [Rocinate Revenge](./Cryptography/Rocinate%20Revenge/Rocinate%20Revenge.md)
 
-## Forensics (5/7)
+## Forensics (7/7)
 
 - [x] [Ghost in the Wire](./Forensics/Ghost%20in%20the%20Wire/Ghost%20in%20the%20Wire.md)
 - [x] [Broken Signals](./Forensics/Broken%20Signals/Broken%20Signals.md)
 - [x] [Memory Liar](./Forensics/Memory%20Liar/Memory%20Liar.md)
-- [ ] [RESURRECTION (Operation Eclipse Void)](./Forensics/RESURRECTION%20%28Operation%20Eclipse%20Void%29/)
-- [ ] [TESSERA](./Forensics/TESSERA/)
+- [x] [RESURRECTION (Operation Eclipse Void)](./Forensics/RESURRECTION%20%28Operation%20Eclipse%20Void%29/RESURRECTION%20%28Operation%20Eclipse%20Void%29.md) — **source summary**
+- [x] [TESSERA](./Forensics/TESSERA/TESSERA.md) — **source summary**
 - [x] [Ghost in RAM](./Forensics/Ghost%20in%20RAM/Ghost%20in%20RAM.md)
 - [x] [The Miner That Mined The Victim](./Forensics/The%20Miner%20That%20Mined%20The%20Victim/The%20Miner%20That%20Mined%20The%20Victim.md)
 
-## Blockchain (2/5)
+## Blockchain (5/5)
 
-- [ ] [Dormant Signer](./Blockchain/Dormant%20Signer/)
+- [x] [Dormant Signer](./Blockchain/Dormant%20Signer/Dormant%20Signer.md) — **source summary**
 - [x] [Pruned Ledger](./Blockchain/Pruned%20Ledger/Pruned%20Ledger.md)
-- [ ] [Hollow Reserve](./Blockchain/Hollow%20Reserve/)
-- [ ] [Quiet Upgrade](./Blockchain/Quiet%20Upgrade/)
+- [x] [Hollow Reserve](./Blockchain/Hollow%20Reserve/Hollow%20Reserve.md) — **source summary**
+- [x] [Quiet Upgrade](./Blockchain/Quiet%20Upgrade/Quiet%20Upgrade.md) — **source summary**
 - [x] [Standing Order](./Blockchain/Standing%20Order/Standing%20Order.md)
 
-## Web (5/7)
+## Web (7/7)
 
-- [ ] [Whisper](./Web/Whisper/)
-- [ ] [Orphaned Context](./Web/Orphaned%20Context/)
+- [x] [Whisper](./Web/Whisper/Whisper.md) — **source summary**
+- [x] [Orphaned Context](./Web/Orphaned%20Context/Orphaned%20Context.md) — **source summary**
 - [x] [File Viewer](./Web/File%20Viewer/File%20Viewer.md)
 - [x] [Stillwell Estates](./Web/Stillwell%20Estates/Stillwell%20Estates.md)
 - [x] [Overgrowth](./Web/Overgrowth/Overgrowth.md)
 - [x] [Ouroboros](./Web/Ouroboros/Ouroboros.md)
 - [x] [The Coffee Shop](./Web/The%20Coffee%20Shop/The%20Coffee%20Shop.md)
 
-## Miscellaneous (2/6)
+## Miscellaneous (6/6)
 
-- [ ] [Forgotten Secrets](./Miscellaneous/Forgotten%20Secrets/)
-- [ ] [The Foxglove Trace](./Miscellaneous/The%20Foxglove%20Trace/)
-- [ ] [Warden’s Maze](./Miscellaneous/Warden%E2%80%99s%20Maze/)
+- [x] [Forgotten Secrets](./Miscellaneous/Forgotten%20Secrets/Forgotten%20Secrets.md) — **source summary**
+- [x] [The Foxglove Trace](./Miscellaneous/The%20Foxglove%20Trace/The%20Foxglove%20Trace.md) — **source summary**
+- [x] [Warden’s Maze](./Miscellaneous/Warden%E2%80%99s%20Maze/Warden%E2%80%99s%20Maze.md) — **source summary**
 - [x] [Dead Air](./Miscellaneous/Dead%20Air/Dead%20Air.md)
-- [ ] [The Collector's Trail](./Miscellaneous/The%20Collector%27s%20Trail/)
+- [x] [The Collector's Trail](./Miscellaneous/The%20Collector%27s%20Trail/The%20Collector%27s%20Trail.md) — **source summary**
 - [x] [Labyrinth](./Miscellaneous/Labyrinth/Labyrinth.md)
 
 ## OSINT (4/4)
@@ -97,12 +100,12 @@ Edit this checklist as more writeups are uploaded.
 - [x] [VaultKeeper](./android/VaultKeeper/VaultKeeper.md) — disputed result noted
 - [x] [Cipher](./android/Cipher/Cipher.md)
 
-## hardware (4/5)
+## hardware (5/5)
 
 - [x] [Tasmota Vault](./hardware/Tasmota%20Vault/Tasmota%20Vault.md)
 - [x] [GhostBus](./hardware/GhostBus/GhostBus.md)
 - [x] [C3 Vault](./hardware/C3%20Vault/C3%20Vault.md)
-- [ ] [Cold Chain](./hardware/Cold%20Chain/)
+- [x] [Cold Chain](./hardware/Cold%20Chain/Cold%20Chain.md) — **source summary**
 - [x] [Ground Station](./hardware/Ground%20Station/Ground%20Station.md)
 
 ## network (2/2)
@@ -110,13 +113,13 @@ Edit this checklist as more writeups are uploaded.
 - [x] [The Quiet Divide](./network/The%20Quiet%20Divide/The%20Quiet%20Divide.md)
 - [x] [Operation Chimera](./network/Operation%20Chimera/Operation%20Chimera.md)
 
-## steg (6/8)
+## steg (8/8)
 
 - [x] [Roof of Africa](./steg/Roof%20of%20Africa/Roof%20of%20Africa.md)
 - [x] [Zanzibar Whisper](./steg/Zanzibar%20Whisper/Zanzibar%20Whisper.md)
 - [x] [Whispers in the Margin](./steg/Whispers%20in%20the%20Margin/Whispers%20in%20the%20Margin.md)
 - [x] [Echoes of a Forgotten Canvas](./steg/Echoes%20of%20a%20Forgotten%20Canvas/Echoes%20of%20a%20Forgotten%20Canvas.md)
 - [x] [Paper Trail](./steg/Paper%20Trail/Paper%20Trail.md)
-- [ ] [Hall of Mirrors](./steg/Hall%20of%20Mirrors/)
+- [x] [Hall of Mirrors](./steg/Hall%20of%20Mirrors/Hall%20of%20Mirrors.md) — **source summary**
 - [x] [No Bit Sings Alone](./steg/No%20Bit%20Sings%20Alone/No%20Bit%20Sings%20Alone.md)
-- [ ] [Unremarable](./steg/Unremarable/)
+- [x] [Unremarable](./steg/Unremarable/Unremarable.md) — **source summary**

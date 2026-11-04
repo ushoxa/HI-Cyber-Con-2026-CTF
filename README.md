@@ -11,7 +11,7 @@ CTF writeups, challenge solutions, solver scripts, and forensic artifacts from *
 ![HI Cyber Con 2026 — Break the Signal](assets/readme/event-banner.png)
 
 ![Placement: 2nd](https://img.shields.io/badge/Placement-2nd-ff6b00?style=for-the-badge)
-![Writeups: 47 of 69](https://img.shields.io/badge/Writeups-47%20%2F%2069-242424?style=for-the-badge)
+![Documentation: 69 of 69](https://img.shields.io/badge/Documentation-69%20%2F%2069-242424?style=for-the-badge)
 ![Status: Work in progress](https://img.shields.io/badge/Status-Work%20in%20progress-5865F2?style=for-the-badge)
 
 [**Browse the checklist**](CHECKLIST.md) · [**Contributors**](CONTRIBUTORS.md) · [**Event website**](https://hicybercon.hiddeninvestigations.net/) · [**Discord**](https://discord.gg/rD2gHUWJhf)
@@ -58,25 +58,25 @@ This repository brings together our challenge writeups, solver scripts, and supp
 
 ## Explore the writeups
 
-**47 / 69 writeups uploaded.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
+**69 / 69 challenges documented: 47 existing writeups and 22 credited source summaries.** The links below open each category. For every challenge and its upload status, use the [full checklist](CHECKLIST.md).
 
-| Category | Writeups uploaded |
+| Category | Documentation available |
 | :--- | :---: |
-| 💥 [Binary Exploitation](./Binary%20Exploitation/) | **1 / 4** |
-| 🧩 [Reverse Engineering](./Reverse%20Engineering/) | **6 / 10** |
-| 🔐 [Cryptography](./Cryptography/) | **7 / 8** |
-| 🔎 [Forensics](./Forensics/) | **5 / 7** |
-| ⛓️ [Blockchain](./Blockchain/) | **2 / 5** |
-| 🌐 [Web](./Web/) | **5 / 7** |
-| 🗂️ [Miscellaneous](./Miscellaneous/) | **2 / 6** |
+| 💥 [Binary Exploitation](./Binary%20Exploitation/) | **4 / 4** |
+| 🧩 [Reverse Engineering](./Reverse%20Engineering/) | **10 / 10** |
+| 🔐 [Cryptography](./Cryptography/) | **8 / 8** |
+| 🔎 [Forensics](./Forensics/) | **7 / 7** |
+| ⛓️ [Blockchain](./Blockchain/) | **5 / 5** |
+| 🌐 [Web](./Web/) | **7 / 7** |
+| 🗂️ [Miscellaneous](./Miscellaneous/) | **6 / 6** |
 | 🛰️ [OSINT](./OSINT/) | **4 / 4** |
 | 🤖 [AI / LLM](./ai-llm/) | **1 / 1** |
 | 📱 [Android](./android/) | **2 / 2** |
-| ⚙️ [Hardware](./hardware/) | **4 / 5** |
+| ⚙️ [Hardware](./hardware/) | **5 / 5** |
 | 📡 [Network](./network/) | **2 / 2** |
-| 🖼️ [Steganography](./steg/) | **6 / 8** |
+| 🖼️ [Steganography](./steg/) | **8 / 8** |
 
-> The Inner Engine has solver and evidence files uploaded; its Markdown writeup is pending. VaultKeeper's writeup retains its disputed-result note. Upload status records available documentation, not contest acceptance.
+> The 22 additions are source-based solution summaries, clearly credited to their original authors, not independently reproduced team solves. Orphaned Context's source displays a local fixture value, not a validated contest flag. VaultKeeper retains its disputed-result note. Documentation status is not contest acceptance.
 
 ### Start here
 
@@ -86,104 +86,116 @@ This repository brings together our challenge writeups, solver scripts, and supp
 - [No Bit Sings Alone](./steg/No%20Bit%20Sings%20Alone/No%20Bit%20Sings%20Alone.md) — audio steganography and cryptography.
 
 <details>
-<summary><strong>All 47 available challenge writeups</strong></summary>
+<summary><strong>All 69 challenge documents</strong></summary>
 
-**Binary Exploitation**
 
+**Binary Exploitation (4/4)**
+
+- [Apex Engine](./Binary%20Exploitation/Apex%20Engine/Apex%20Engine.md) — **source summary**
+- [LetMeOut](./Binary%20Exploitation/LetMeOut/LetMeOut.md) — **source summary**
+- [Project Mangoo](./Binary%20Exploitation/Project%20Mangoo/Project%20Mangoo.md) — **source summary**
 - [Titan Relay](./Binary%20Exploitation/Titan%20Relay/Titan%20Relay.md)
 
-**Reverse Engineering**
-
-- [Cold Circuit](./Reverse%20Engineering/Cold%20Circuit/Cold%20Circuit.md)
-
-- [Snapfile](./Reverse%20Engineering/Snapfile/Snapfile.md)
+**Reverse Engineering (10/10)**
 
 - [Cold Beacon](./Reverse%20Engineering/Cold%20Beacon/Cold%20Beacon.md)
-- [Night Batch](./Reverse%20Engineering/Night%20Batch/Night%20Batch.md)
+- [Epsilon Drift](./Reverse%20Engineering/Epsilon%20Drift/Epsilon%20Drift.md) — **source summary**
 - [Obfuscated Flow](./Reverse%20Engineering/Obfuscated%20Flow/Obfuscated%20Flow.md)
+- [Night Batch](./Reverse%20Engineering/Night%20Batch/Night%20Batch.md)
+- [Last Execution](./Reverse%20Engineering/Last%20Execution/Last%20Execution.md) — **source summary**
 - [Signal Lock](./Reverse%20Engineering/Signal%20Lock/Signal%20Lock.md)
+- [The Inner Engine](./Reverse%20Engineering/The%20Inner%20Engine/The%20Inner%20Engine.md) — **source summary**
+- [Snapfile](./Reverse%20Engineering/Snapfile/Snapfile.md)
+- [Entitlement](./Reverse%20Engineering/Entitlement/Entitlement.md) — **source summary**
+- [Cold Circuit](./Reverse%20Engineering/Cold%20Circuit/Cold%20Circuit.md)
 
-**Cryptography**
+**Cryptography (8/8)**
 
-- [Just Give Me The Flag Man](./Cryptography/Just%20Give%20Me%20The%20Flag%20Man/Just%20Give%20Me%20The%20Flag%20Man.md)
 - [Cipher Cascade](./Cryptography/Cipher%20Cascade/Cipher%20Cascade.md)
 - [Tyco](./Cryptography/Tyco/Tyco.md)
+- [Log Jam](./Cryptography/Log%20Jam/Log%20Jam.md) — **source summary**
 - [ChronoGrind](./Cryptography/ChronoGrind/ChronoGrind.md)
 - [Rocinate](./Cryptography/Rocinate/Rocinate.md)
+- [Just Give Me The Flag Man](./Cryptography/Just%20Give%20Me%20The%20Flag%20Man/Just%20Give%20Me%20The%20Flag%20Man.md)
 - [Cairn](./Cryptography/Cairn/Cairn.md)
 - [Rocinate Revenge](./Cryptography/Rocinate%20Revenge/Rocinate%20Revenge.md)
 
-**Forensics**
-
-- [The Miner That Mined The Victim](./Forensics/The%20Miner%20That%20Mined%20The%20Victim/The%20Miner%20That%20Mined%20The%20Victim.md)
-
-- [Ghost in RAM](./Forensics/Ghost%20in%20RAM/Ghost%20in%20RAM.md)
+**Forensics (7/7)**
 
 - [Ghost in the Wire](./Forensics/Ghost%20in%20the%20Wire/Ghost%20in%20the%20Wire.md)
 - [Broken Signals](./Forensics/Broken%20Signals/Broken%20Signals.md)
 - [Memory Liar](./Forensics/Memory%20Liar/Memory%20Liar.md)
+- [RESURRECTION (Operation Eclipse Void)](./Forensics/RESURRECTION%20%28Operation%20Eclipse%20Void%29/RESURRECTION%20%28Operation%20Eclipse%20Void%29.md) — **source summary**
+- [TESSERA](./Forensics/TESSERA/TESSERA.md) — **source summary**
+- [Ghost in RAM](./Forensics/Ghost%20in%20RAM/Ghost%20in%20RAM.md)
+- [The Miner That Mined The Victim](./Forensics/The%20Miner%20That%20Mined%20The%20Victim/The%20Miner%20That%20Mined%20The%20Victim.md)
 
-**Blockchain**
+**Blockchain (5/5)**
 
+- [Dormant Signer](./Blockchain/Dormant%20Signer/Dormant%20Signer.md) — **source summary**
 - [Pruned Ledger](./Blockchain/Pruned%20Ledger/Pruned%20Ledger.md)
-
+- [Hollow Reserve](./Blockchain/Hollow%20Reserve/Hollow%20Reserve.md) — **source summary**
+- [Quiet Upgrade](./Blockchain/Quiet%20Upgrade/Quiet%20Upgrade.md) — **source summary**
 - [Standing Order](./Blockchain/Standing%20Order/Standing%20Order.md)
 
-**Web**
+**Web (7/7)**
 
+- [Whisper](./Web/Whisper/Whisper.md) — **source summary**
+- [Orphaned Context](./Web/Orphaned%20Context/Orphaned%20Context.md) — **source summary**
 - [File Viewer](./Web/File%20Viewer/File%20Viewer.md)
 - [Stillwell Estates](./Web/Stillwell%20Estates/Stillwell%20Estates.md)
 - [Overgrowth](./Web/Overgrowth/Overgrowth.md)
 - [Ouroboros](./Web/Ouroboros/Ouroboros.md)
 - [The Coffee Shop](./Web/The%20Coffee%20Shop/The%20Coffee%20Shop.md)
 
-**Miscellaneous**
+**Miscellaneous (6/6)**
 
+- [Forgotten Secrets](./Miscellaneous/Forgotten%20Secrets/Forgotten%20Secrets.md) — **source summary**
+- [The Foxglove Trace](./Miscellaneous/The%20Foxglove%20Trace/The%20Foxglove%20Trace.md) — **source summary**
+- [Warden’s Maze](./Miscellaneous/Warden%E2%80%99s%20Maze/Warden%E2%80%99s%20Maze.md) — **source summary**
 - [Dead Air](./Miscellaneous/Dead%20Air/Dead%20Air.md)
-
+- [The Collector's Trail](./Miscellaneous/The%20Collector%27s%20Trail/The%20Collector%27s%20Trail.md) — **source summary**
 - [Labyrinth](./Miscellaneous/Labyrinth/Labyrinth.md)
 
-**OSINT**
+**OSINT (4/4)**
 
-- [Shadow Identity (PDF)](./OSINT/Shadow%20Identity/Shadow%20Identity.pdf)
+- [Shadow Identity](./OSINT/Shadow%20Identity/Shadow%20Identity.pdf)
+- [Low Tide Ledger](./OSINT/Low%20Tide%20Ledger/Low%20Tide%20Ledger.pdf)
+- [chillin!!!](./OSINT/chillin%21%21%21/chillin%21%21%21.pdf)
+- [The Reason for the Photograph](./OSINT/The%20Reason%20for%20the%20Photograph/The%20Reason%20for%20the%20Photograph.pdf)
 
-- [The Reason for the Photograph (PDF)](./OSINT/The%20Reason%20for%20the%20Photograph/The%20Reason%20for%20the%20Photograph.pdf)
-
-- [Low Tide Ledger (PDF)](./OSINT/Low%20Tide%20Ledger/Low%20Tide%20Ledger.pdf)
-
-- [chillin!!! (PDF)](./OSINT/chillin%21%21%21/chillin%21%21%21.pdf)
-
-**ai-llm**
+**AI / LLM (1/1)**
 
 - [Blind Index](./ai-llm/Blind%20Index/Blind%20Index.md)
 
-**android**
+**android (2/2)**
 
+- [VaultKeeper](./android/VaultKeeper/VaultKeeper.md) — disputed result noted
 - [Cipher](./android/Cipher/Cipher.md)
 
-- [VaultKeeper](./android/VaultKeeper/VaultKeeper.md)
-
-**hardware**
+**hardware (5/5)**
 
 - [Tasmota Vault](./hardware/Tasmota%20Vault/Tasmota%20Vault.md)
 - [GhostBus](./hardware/GhostBus/GhostBus.md)
 - [C3 Vault](./hardware/C3%20Vault/C3%20Vault.md)
+- [Cold Chain](./hardware/Cold%20Chain/Cold%20Chain.md) — **source summary**
 - [Ground Station](./hardware/Ground%20Station/Ground%20Station.md)
 
-**network**
+**network (2/2)**
 
 - [The Quiet Divide](./network/The%20Quiet%20Divide/The%20Quiet%20Divide.md)
-
 - [Operation Chimera](./network/Operation%20Chimera/Operation%20Chimera.md)
 
-**steg**
+**steg (8/8)**
 
 - [Roof of Africa](./steg/Roof%20of%20Africa/Roof%20of%20Africa.md)
 - [Zanzibar Whisper](./steg/Zanzibar%20Whisper/Zanzibar%20Whisper.md)
 - [Whispers in the Margin](./steg/Whispers%20in%20the%20Margin/Whispers%20in%20the%20Margin.md)
 - [Echoes of a Forgotten Canvas](./steg/Echoes%20of%20a%20Forgotten%20Canvas/Echoes%20of%20a%20Forgotten%20Canvas.md)
 - [Paper Trail](./steg/Paper%20Trail/Paper%20Trail.md)
+- [Hall of Mirrors](./steg/Hall%20of%20Mirrors/Hall%20of%20Mirrors.md) — **source summary**
 - [No Bit Sings Alone](./steg/No%20Bit%20Sings%20Alone/No%20Bit%20Sings%20Alone.md)
+- [Unremarable](./steg/Unremarable/Unremarable.md) — **source summary**
 
 </details>
 
@@ -191,7 +203,7 @@ This repository brings together our challenge writeups, solver scripts, and supp
 
 Writeups use the **challenge name**, such as `The Coffee Shop.md`, rather than `README.md`. Depending on the supplied material, folders also include solver code, original challenge archives, extracted artifacts, screenshots, and verification output.
 
-Some folders currently contain only a `.gitkeep` placeholder. They are ready for future writeups; the [checklist](CHECKLIST.md) tracks what is available.
+The [checklist](CHECKLIST.md) distinguishes existing writeups from the 22 external-source summaries. Summaries describe the reported method and link to the original articles; detailed reproduction may require files or scripts not included by the source.
 
 ## Team & contributors
 
@@ -222,6 +234,10 @@ Explore the event and connect with **Hidden Investigations** through the links p
 Have a missing HI Cyber Con 2026 solution or a correction? Open a pull request with your writeup in the matching challenge folder, name the file after the challenge, and keep your author credit. Include reproduction steps and supporting files when available. Update [CHECKLIST.md](CHECKLIST.md) and the progress counts when adding a new writeup.
 
 If this collection helps you, consider starring it or sharing a useful challenge writeup with the CTF community.
+
+## External writeup sources
+
+The 22 summaries added on 4 November 2026 credit [p4ndora.ai / Offensive Lab](https://p4ndora.ai/benchmarks/hi-cyber-con-2026/), with cross-checks for Apex Engine, Quiet Upgrade and Cold Chain from [Phan Thành Danh (tinhatinh), CTFWU](https://tinhatinh.github.io/CTFWU/en/events/hi-cyber-con-2026-ctf/). Each summary links directly to its sources. Their reported flags and results remain attributed; some flags differ between the sources.
 
 ## Acknowledgments
 
